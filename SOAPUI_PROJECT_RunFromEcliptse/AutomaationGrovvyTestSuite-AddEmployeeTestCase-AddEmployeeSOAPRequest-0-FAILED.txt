@@ -1,0 +1,32 @@
+Status: FAILED
+Time Taken: 21281
+Size: 0
+Timestamp: Wed Jul 11 10:53:06 EDT 2018
+TestStep: AddEmployeeSOAPRequest
+
+----------------- Messages ------------------------------
+org.apache.http.conn.HttpHostConnectException: Connection to http://216.10.242.178:8082 refused
+
+----------------- Properties ------------------------------
+Endpoint: http://216.10.242.178:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>HECTOR8</typ:name>
+         <!--Optional:-->
+         <typ:id>555</typ:id>
+         <!--Optional:-->
+         <typ:Department>CONSTANT DEPARTMENT</typ:Department>
+         <!--Optional:-->
+         <typ:age>11</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

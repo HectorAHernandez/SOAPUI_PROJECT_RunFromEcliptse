@@ -1,0 +1,16 @@
+Status: FAILED
+Time Taken: 43399
+Size: 0
+Timestamp: Wed Jul 11 10:54:09 EDT 2018
+TestStep: FirstGroovyScript
+Error:groovy.lang.GroovyRuntimeException: Ambiguous method overloading for method com.eviware.soapui.support.XmlHolder#<init>.
+Cannot resolve which method to invoke for [null] due to overlapping prototypes between:
+	[interface org.apache.xmlbeans.XmlObject]
+	[interface org.w3c.dom.Node]
+
+----------------- Messages ------------------------------
+groovy.lang.GroovyRuntimeException: Ambiguous method overloading for method com.eviware.soapui.support.XmlHolder#<init>.
+Cannot resolve which method to invoke for [null] due to overlapping prototypes between:
+	[interface org.apache.xmlbeans.XmlObject]
+	[interface org.w3c.dom.Node]
+error at line: 138

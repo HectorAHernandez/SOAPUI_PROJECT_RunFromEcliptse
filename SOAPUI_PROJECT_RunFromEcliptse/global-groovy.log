@@ -1,0 +1,72 @@
+2018-07-03 19:14:39,799 INFO  [log]  *** hello this is my first Groovy program
+2018-07-03 19:14:39,817 INFO  [log] *** TestCase level name property content is: Troy
+2018-07-03 19:14:39,818 INFO  [log] *** TestCase level age property content is: 87
+2018-07-03 19:14:39,818 INFO  [log] using TestSuite property with context.expand for TSuiteAddress: $TestSuite#TSuiteAddress
+2018-07-03 19:14:39,864 INFO  [log] *** value of a property in another testCase is: 123
+2018-07-03 19:14:39,865 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-03 19:14:39,865 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-03 19:14:39,909 INFO  [log]   **** Content of the Request property ***: <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>HECTOR8</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2018-07-03 19:14:39,911 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-03 19:14:39,912 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-03 19:14:39,953 INFO  [log]  *** Getting value of Project level property: FEMALE
+2018-07-03 19:14:39,959 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-03 19:14:39,959 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-03 19:14:39,960 INFO  [log]  *** Getting value of Project level property: FEMALE
+2018-07-03 19:14:40,616 INFO  [log]  --- nameInGetEmpDetailResponse = HECTOR8 AND namePropt is = HECTOR8
+2018-07-03 19:14:40,617 INFO  [log]  --- ageInGetEmpDetailResponse = 11 AND agePropt is = 11
+2018-07-03 19:14:40,617 INFO  [log]  --- idInGetEmpDetailResponse = 555 AND idPropt is = 555
+2018-07-03 19:17:35,666 INFO  [log]  *** hello this is my first Groovy program
+2018-07-03 19:17:35,693 INFO  [log] *** TestCase level name property content is: Troy
+2018-07-03 19:17:35,693 INFO  [log] *** TestCase level age property content is: 87
+2018-07-03 19:17:35,694 INFO  [log] using TestSuite property with context.expand for TSuiteAddress: $TestSuite#TSuiteAddress
+2018-07-03 19:17:35,750 INFO  [log] *** value of a property in another testCase is: 123
+2018-07-03 19:17:35,750 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-03 19:17:35,750 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-03 19:17:35,805 INFO  [log]   **** Content of the Request property ***: <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>HECTOR8</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2018-07-03 19:17:35,806 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-03 19:17:35,807 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-03 19:17:35,835 INFO  [log]  *** Getting value of Project level property: FEMALE
+2018-07-03 19:17:35,837 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-03 19:17:35,837 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-03 19:17:35,838 INFO  [log]  *** Getting value of Project level property: FEMALE
+2018-07-03 19:17:36,432 INFO  [log]  --- nameInGetEmpDetailResponse = HECTOR8 AND namePropt is = HECTOR8
+2018-07-03 19:17:36,433 INFO  [log]  --- ageInGetEmpDetailResponse = 11 AND agePropt is = 11
+2018-07-03 19:17:36,433 INFO  [log]  --- idInGetEmpDetailResponse = 555 AND idPropt is = 555
+2018-07-11 10:54:10,660 INFO  [log]  *** hello this is my first Groovy program
+2018-07-11 10:54:10,697 INFO  [log] *** TestCase level name property content is: Troy
+2018-07-11 10:54:10,698 INFO  [log] *** TestCase level age property content is: 87
+2018-07-11 10:54:10,698 INFO  [log] using TestSuite property with context.expand for TSuiteAddress: $TestSuite#TSuiteAddress
+2018-07-11 10:54:10,768 INFO  [log] *** value of a property in another testCase is: 123
+2018-07-11 10:54:10,768 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-11 10:54:10,769 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-11 10:54:10,852 INFO  [log]   **** Content of the Request property ***: <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>HECTOR8</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2018-07-11 10:54:10,854 INFO  [log]  *** value of property age in testCase AddEmployeeTestCase is: 999
+2018-07-11 10:54:10,854 INFO  [log]  *** value of property departemen in this same Grrovy testCase is: NEW DEPARTMENT
+2018-07-11 10:54:10,885 INFO  [log]  *** Getting value of Project level property: FEMALE
+2018-07-11 10:54:10,885 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-11 10:54:10,886 INFO  [log]  *** Getting value of Project level property: MALE
+2018-07-11 10:54:10,886 INFO  [log]  *** Getting value of Project level property: FEMALE
